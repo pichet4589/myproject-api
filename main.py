@@ -13,7 +13,7 @@ import hashlib
 
 @app.route('/',methods=['GET'])
 def index():
-     return "<h1>Welcome to our server !!</h1>"
+     return "<h1>Welcome to Python Flask server !!</h1>"
 
 @app.route('/ping')
 def ping():

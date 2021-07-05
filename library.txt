@@ -1,9 +1,0 @@
-flask
-pyjwt
-pytesseract
-Image
-jwt
-base64
-datetime
-raps
-hashlib
